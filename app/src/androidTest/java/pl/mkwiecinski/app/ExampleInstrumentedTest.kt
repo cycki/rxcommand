@@ -15,6 +15,6 @@ import org.junit.runner.RunWith
     @Test fun useAppContext() {
         // Context of the app under test.
         val appContext = InstrumentationRegistry.getTargetContext()
-        assertEquals("pl.mkwiecinski.rxcommand", appContext.packageName)
+        assertEquals("pl.mkwiecinski.app", appContext.packageName)
     }
 }

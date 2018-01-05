@@ -1,4 +1,4 @@
-package mkwiecinski.pl.rxcommand;
+package pl.mkwiecinski.rxcommand;
 
 import org.junit.Test;
 
